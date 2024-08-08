@@ -12,5 +12,5 @@ wget https://raw.githubusercontent.com/choir94/Eclipse-Deploy-smartcontract/main
 ## Note
 - simpan phrase yang di hasilkan, jika create new wallet
 
-## Join My telegram channel
-- https://t.me/airdrop_node
+## Join My Komunitas
+- Mgsky Testnet Hunter
